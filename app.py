@@ -37,7 +37,7 @@ if 'output' not in st.session_state:
 
 def btn_action():
     try:
-        st.session_state.output = musics_recommender(user_input, musics_list, doc_sim_df)
+        st.session_state.output = musics_recommender(user_input, musics_list, artist_name, doc_sim_df)
     except:
         st.session_state.output = 'Lagu tidak ditemukan'
 
