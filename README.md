@@ -9,6 +9,7 @@ Widhi Bagus Nugroho (A11.2022.14696)
 
 ##  - Dataset -
 Dataset dapat diunduh pada link berikut &#8594; [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019)
+
 Dataset tersebut memiliki 31 kolom secara keseluruhan. Tetapi pada sistem rekomendasi ini hanya memerlukan beberapa kolom saja, antara lain: artist_name, track_name, dan lyrics
 
 ---
