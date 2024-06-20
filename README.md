@@ -1,11 +1,5 @@
 # Rekomendasi Musik dengan Kemiripan Dokumen Berdasarkan lirik menggunakan TF-IDF dan Cosine Similarity
 
----
-
-##  - Sistem Temu Kembali Informasi -
-Widhi Bagus Nugroho (A11.2022.14696)
-
----
 
 ##  - Dataset -
 Dataset dapat diunduh pada link berikut &#8594; [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019)
