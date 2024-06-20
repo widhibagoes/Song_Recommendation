@@ -22,11 +22,6 @@ Tujuan dibuatnya sistem ini menggunakan dataset yang sudah disebutkan di atas ad
   - SKLearn digunakan untuk melakukan vektorisasi TF-IDF
   - SKLearn digunakan untuk menghitung similaritas (cosine similarity) berdasarkan matrix TF-IDF dari vektorisasi
   - Outputnya adalah 5 judul lagu yang memiliki lirik yang serupa dari input judul lagu yang dimasukkan pengguna
-  
----
-
-##  - Performa Uji -
-Performa Uji dilakukan menggunakan K-Fold Cross-Validation yang sebelumnya penulis perlu membuat beberapa sampel rekomendasi pada judul game tertentu untuk mendapatkan hasil dari pengujian ini. Setelah dilakukan pengujian hasil Average Hit Ratio yang didapat: 0.224
 
 ---
 
